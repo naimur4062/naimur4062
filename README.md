@@ -24,5 +24,5 @@
 <br>
 <br>
 <br>
-<img color:red src="https://github-readme-stats.vercel.app/api?username=naimur4062&bg_color:#777"/>
+<img color:red src="https://github-readme-stats.vercel.app/api?username=naimur4062&&bg_color:red"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimur4062"/>
