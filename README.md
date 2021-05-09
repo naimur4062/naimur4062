@@ -7,5 +7,5 @@
 * 🌱 I’m currently learning everything 🤣
 * 🥅 2021 Goals: Next.js, React Native, Python
 * ⚡ Fun fact: I love to write poem
-* 📬 Reach me out at samiunjahan06@gmail.com
+* 📬 Reach me out at naimur4062@gmail.com
 
