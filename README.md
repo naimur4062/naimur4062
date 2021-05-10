@@ -25,4 +25,4 @@
 <br>
 <br>
 <img color:red src="https://github-readme-stats.vercel.app/api?username=naimur4062&theme=prussian&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimur4062"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimur4062&theme=prussian&show_icons=true"/>
